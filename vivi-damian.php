@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -49,15 +50,14 @@
                             <div class="col-md-12 head-box">
                                 <div class="navbar-header">
                                     <!-- Button For Responsive toggle -->
-                                    <button type="button" class="navbar-toggle" data-toggle="collapse"
-                                        data-target=".navbar-collapse">
+                                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                                         <span class="sr-only">Toggle navigation</span>
                                         <span class="icon-bar"></span>
                                         <span class="icon-bar"></span>
                                         <span class="icon-bar"></span>
                                     </button>
                                     <!-- Logo -->
-                                    <a class="navbar-brand" href="index.html">
+                                    <a class="navbar-brand" href="index.php">
                                         <h3 class="site_logo" style="color: white;">JFL Producciones</h3>
                                     </a>
                                 </div>
@@ -65,20 +65,20 @@
                                 <div class="navbar-collapse collapse">
                                     <!-- nav -->
                                     <ul class="nav navbar-nav">
-                                        <li><a href="index.html">Inicio</a></li>
-                                        <li><a href="about-us.html">Acerca de</a></li>
-                                        <li><a href="presentation.html">Presentación</a></li>
+                                        <li><a href="index.php">Inicio</a></li>
+                                        <li><a href="about-us.php">Acerca de</a></li>
+                                        <li><a href="presentation.php">Presentación</a></li>
                                         <li>
                                             <a href="#">Galeria <i
                                                     class="fa fa-angle-down hidden-lg hidden-md hidden-sm"
                                                     aria-hidden="true"></i></a>
                                             <ul class="dropdown-menu">
-                                                <li><a href="weddings.html">Bodas</a></li>
+                                                <li><a href="weddings.php">Bodas</a></li>
                                                 <li><a href="#">Cumpleaños de 15</a></li>
                                                 <li><a href="#">Eventos</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="contact.html">Contacto</a></li>
+                                        <li><a href="contact.php">Contacto</a></li>
                                     </ul>
                                 </div>
                                 <!-- navbar-collapse -->
@@ -108,7 +108,7 @@
                     <div class="breadcrumb-box">
                         <ul class="breadcrumb text-center colorW marB0">
                             <li>
-                                <a href="index.html">Inicio</a>
+                                <a href="index.php">Inicio</a>
                             </li>
                             <li class="active">Galeria</li>
                         </ul>
@@ -123,13 +123,13 @@
         <div class="mix-default container">
             <div class="row">
                 <div id="mixItUp">
-                    <div class="mix-default container" >
+                    <div class="mix-default container">
                         <div class="row">
                             <div id="mixItUp">
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix fashion">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/VD/foto1.png" alt=""/>
+                                            <img src="assets/img/gallery/wedding-user/VD/foto1.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
@@ -143,7 +143,7 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix couple">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/VD/foto2.png" alt=""/>
+                                            <img src="assets/img/gallery/wedding-user/VD/foto2.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
@@ -157,7 +157,7 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix fashion">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/VD/foto3.png" alt=""/>
+                                            <img src="assets/img/gallery/wedding-user/VD/foto3.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
@@ -171,7 +171,7 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix  couple">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/VD/foto4.png" alt=""/>
+                                            <img src="assets/img/gallery/wedding-user/VD/foto4.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
@@ -190,7 +190,7 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix fashion">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/VD/foto5.png" alt=""/>
+                                            <img src="assets/img/gallery/wedding-user/VD/foto5.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
@@ -204,7 +204,7 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix couple">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/VD/foto6.png" alt=""/>
+                                            <img src="assets/img/gallery/wedding-user/VD/foto6.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
@@ -218,7 +218,7 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix fashion">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/VD/foto7.png" alt=""/>
+                                            <img src="assets/img/gallery/wedding-user/VD/foto7.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
@@ -232,7 +232,7 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix  couple">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/VD/foto8.png" alt=""/>
+                                            <img src="assets/img/gallery/wedding-user/VD/foto8.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
@@ -251,7 +251,7 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix fashion">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/VD/foto9.png" alt=""/>
+                                            <img src="assets/img/gallery/wedding-user/VD/foto9.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
@@ -265,7 +265,7 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix couple">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/VD/foto10.png" alt=""/>
+                                            <img src="assets/img/gallery/wedding-user/VD/foto10.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
@@ -279,7 +279,7 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix fashion">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/VD/foto11.png" alt=""/>
+                                            <img src="assets/img/gallery/wedding-user/VD/foto11.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
@@ -293,7 +293,7 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix  couple">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/VD/foto12.png" alt=""/>
+                                            <img src="assets/img/gallery/wedding-user/VD/foto12.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
@@ -307,13 +307,13 @@
                             </div>
                         </div>
 
-                        
+
                         <div class="row">
                             <div id="mixItUp">
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix fashion">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/VD/foto13.png" alt=""/>
+                                            <img src="assets/img/gallery/wedding-user/VD/foto13.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
@@ -327,7 +327,7 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix couple">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/VD/foto14.png" alt=""/>
+                                            <img src="assets/img/gallery/wedding-user/VD/foto14.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
@@ -341,7 +341,7 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix fashion">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/VD/foto15.png" alt=""/>
+                                            <img src="assets/img/gallery/wedding-user/VD/foto15.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
@@ -355,7 +355,7 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix  couple">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/VD/foto16.png" alt=""/>
+                                            <img src="assets/img/gallery/wedding-user/VD/foto16.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
@@ -369,13 +369,13 @@
                             </div>
                         </div>
 
-                        
+
                         <div class="row">
                             <div id="mixItUp">
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix fashion">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/VD/foto17.png" alt=""/>
+                                            <img src="assets/img/gallery/wedding-user/VD/foto17.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
@@ -389,7 +389,7 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix couple">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/VD/foto18.png" alt=""/>
+                                            <img src="assets/img/gallery/wedding-user/VD/foto18.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
@@ -403,7 +403,7 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix fashion">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/VD/foto19.png" alt=""/>
+                                            <img src="assets/img/gallery/wedding-user/VD/foto19.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
@@ -417,7 +417,7 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix  couple">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/VD/foto20.png" alt=""/>
+                                            <img src="assets/img/gallery/wedding-user/VD/foto20.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
@@ -431,13 +431,13 @@
                             </div>
                         </div>
 
-                        
+
                         <div class="row">
                             <div id="mixItUp">
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix fashion">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/VD/foto21.png" alt=""/>
+                                            <img src="assets/img/gallery/wedding-user/VD/foto21.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
@@ -451,7 +451,7 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix couple">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/VD/foto22.png" alt=""/>
+                                            <img src="assets/img/gallery/wedding-user/VD/foto22.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
@@ -465,7 +465,7 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix fashion">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/VD/foto23.png" alt=""/>
+                                            <img src="assets/img/gallery/wedding-user/VD/foto23.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
@@ -479,7 +479,7 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix  couple">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/VD/foto24.png" alt=""/>
+                                            <img src="assets/img/gallery/wedding-user/VD/foto24.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
@@ -498,7 +498,7 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix fashion">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/VD/foto25.png" alt=""/>
+                                            <img src="assets/img/gallery/wedding-user/VD/foto25.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
@@ -512,7 +512,7 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix couple">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/VD/foto26.png" alt=""/>
+                                            <img src="assets/img/gallery/wedding-user/VD/foto26.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
@@ -526,7 +526,7 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix fashion">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/VD/foto27.png" alt=""/>
+                                            <img src="assets/img/gallery/wedding-user/VD/foto27.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
@@ -540,7 +540,7 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix  couple">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/VD/foto28.png" alt=""/>
+                                            <img src="assets/img/gallery/wedding-user/VD/foto28.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
@@ -559,7 +559,7 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix fashion">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/VD/foto29.png" alt=""/>
+                                            <img src="assets/img/gallery/wedding-user/VD/foto29.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
@@ -573,7 +573,7 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix couple">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/VD/foto30.png" alt=""/>
+                                            <img src="assets/img/gallery/wedding-user/VD/foto30.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
@@ -587,7 +587,7 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix fashion">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/VD/foto31.png" alt=""/>
+                                            <img src="assets/img/gallery/wedding-user/VD/foto31.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
@@ -601,7 +601,7 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix  couple">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/VD/foto32.png" alt=""/>
+                                            <img src="assets/img/gallery/wedding-user/VD/foto32.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
@@ -620,7 +620,7 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix fashion">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/VD/foto31.png" alt=""/>
+                                            <img src="assets/img/gallery/wedding-user/VD/foto31.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
@@ -634,7 +634,7 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix couple">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/VD/foto32.png" alt=""/>
+                                            <img src="assets/img/gallery/wedding-user/VD/foto32.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
@@ -648,7 +648,7 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix couple">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/VD/foto33.png" alt=""/>
+                                            <img src="assets/img/gallery/wedding-user/VD/foto33.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
@@ -662,7 +662,7 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix couple">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/VD/foto34.png" alt=""/>
+                                            <img src="assets/img/gallery/wedding-user/VD/foto34.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
@@ -676,13 +676,13 @@
                             </div>
                         </div>
 
-                        
+
                         <div class="row">
                             <div id="mixItUp">
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix fashion">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/VD/foto35.png" alt=""/>
+                                            <img src="assets/img/gallery/wedding-user/VD/foto35.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
@@ -696,7 +696,7 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix couple">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/VD/foto36.png" alt=""/>
+                                            <img src="assets/img/gallery/wedding-user/VD/foto36.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
@@ -710,7 +710,7 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix couple">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/VD/foto37.png" alt=""/>
+                                            <img src="assets/img/gallery/wedding-user/VD/foto37.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
@@ -724,7 +724,7 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix couple">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/VD/foto38.png" alt=""/>
+                                            <img src="assets/img/gallery/wedding-user/VD/foto38.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
@@ -738,13 +738,13 @@
                             </div>
                         </div>
 
-                        
+
                         <div class="row">
                             <div id="mixItUp">
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix fashion">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/VD/foto39.png" alt=""/>
+                                            <img src="assets/img/gallery/wedding-user/VD/foto39.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
@@ -758,7 +758,7 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix couple">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/VD/foto40.png" alt=""/>
+                                            <img src="assets/img/gallery/wedding-user/VD/foto40.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
@@ -772,7 +772,7 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix couple">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/VD/foto41.png" alt=""/>
+                                            <img src="assets/img/gallery/wedding-user/VD/foto41.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
@@ -786,7 +786,7 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix couple">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/VD/foto42.png" alt=""/>
+                                            <img src="assets/img/gallery/wedding-user/VD/foto42.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
@@ -854,8 +854,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 col-sm-12 col-xs-12">
-                        <p style="text-align: center;">Copyright 2020 All Right Reserved <a
-                                href="http://www.itgeeksin.com/"><span class="theme-color">DevCode</span></a></p>
+                        <p style="text-align: center;">Copyright 2020 All Right Reserved <a href="http://www.itgeeksin.com/"><span class="theme-color">DevCode</span></a></p>
                     </div>
                 </div>
             </div>
@@ -874,6 +873,6 @@
     <script src="assets/js/main.js"></script>
 </body>
 
-<!-- Mirrored from preview.itgeeksin.com/photography/portfolio-style-4.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 31 Dec 2019 02:01:01 GMT -->
+<!-- Mirrored from preview.itgeeksin.com/photography/portfolio-style-4.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 31 Dec 2019 02:01:01 GMT -->
 
 </html>

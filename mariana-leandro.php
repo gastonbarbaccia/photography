@@ -50,15 +50,14 @@
                             <div class="col-md-12 head-box">
                                 <div class="navbar-header">
                                     <!-- Button For Responsive toggle -->
-                                    <button type="button" class="navbar-toggle" data-toggle="collapse"
-                                        data-target=".navbar-collapse">
+                                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                                         <span class="sr-only">Toggle navigation</span>
                                         <span class="icon-bar"></span>
                                         <span class="icon-bar"></span>
                                         <span class="icon-bar"></span>
                                     </button>
                                     <!-- Logo -->
-                                    <a class="navbar-brand" href="index.html">
+                                    <a class="navbar-brand" href="index.php">
                                         <h3 class="site_logo" style="color: white;">JFL Producciones</h3>
                                     </a>
                                 </div>
@@ -66,20 +65,20 @@
                                 <div class="navbar-collapse collapse">
                                     <!-- nav -->
                                     <ul class="nav navbar-nav">
-                                        <li><a href="index.html">Inicio</a></li>
-                                        <li><a href="about-us.html">Acerca de</a></li>
-                                        <li><a href="presentation.html">Presentación</a></li>
+                                        <li><a href="index.php">Inicio</a></li>
+                                        <li><a href="about-us.php">Acerca de</a></li>
+                                        <li><a href="presentation.php">Presentación</a></li>
                                         <li>
                                             <a href="#">Galeria <i
                                                     class="fa fa-angle-down hidden-lg hidden-md hidden-sm"
                                                     aria-hidden="true"></i></a>
                                             <ul class="dropdown-menu">
-                                                <li><a href="weddings.html">Bodas</a></li>
+                                                <li><a href="weddings.php">Bodas</a></li>
                                                 <li><a href="#">Cumpleaños de 15</a></li>
                                                 <li><a href="#">Eventos</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="contact.html">Contacto</a></li>
+                                        <li><a href="contact.php">Contacto</a></li>
                                     </ul>
                                 </div>
                                 <!-- navbar-collapse -->
@@ -96,20 +95,20 @@
         </div>
     </header>
     <!--//================Header end==============//-->
-    <div class="page-header portfolio-mp padT100 padB70">
+    <div class="page-header portfolio-ml padT100 padB70">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
                     <!-- Theme Heading -->
                     <div class="theme-heading">
 
-                        <h3><span class="heading-shape">Meli<strong>&</strong>Pablo</span></h3>
+                        <h3><span class="heading-shape">Mariana<strong>&</strong>Leandro</span></h3>
                     </div>
                     <!-- Theme Heading -->
                     <div class="breadcrumb-box">
                         <ul class="breadcrumb text-center colorW marB0">
                             <li>
-                                <a href="index.html">Inicio</a>
+                                <a href="index.php">Inicio</a>
                             </li>
                             <li class="active">Galeria</li>
                         </ul>
@@ -130,13 +129,11 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix fashion">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/MP/foto1.png" alt="" />
+                                            <img src="assets/img/gallery/wedding-user/ML/foto1.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
-                                                        <a href="assets/img/gallery/wedding-user/MP/foto1.png"
-                                                            class="fancybox" data-fancybox-group="group"><i
-                                                                class="fa fa-file-image-o" aria-hidden="true"></i></a>
+                                                        <a href="assets/img/gallery/wedding-user/ML/foto1.png" class="fancybox" data-fancybox-group="group"><i class="fa fa-file-image-o" aria-hidden="true"></i></a>
                                                     </div>
                                                 </div>
                                             </figcaption>
@@ -146,13 +143,11 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix couple">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/MP/foto2.png" alt="" />
+                                            <img src="assets/img/gallery/wedding-user/ML/foto2.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
-                                                        <a href="assets/img/gallery/wedding-user/MP/foto2.png"
-                                                            class="fancybox" data-fancybox-group="group"><i
-                                                                class="fa fa-file-image-o" aria-hidden="true"></i></a>
+                                                        <a href="assets/img/gallery/wedding-user/ML/foto2.png" class="fancybox" data-fancybox-group="group"><i class="fa fa-file-image-o" aria-hidden="true"></i></a>
                                                     </div>
                                                 </div>
                                             </figcaption>
@@ -162,13 +157,11 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix fashion">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/MP/foto3.png" alt="" />
+                                            <img src="assets/img/gallery/wedding-user/ML/foto3.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
-                                                        <a href="assets/img/gallery/wedding-user/MP/foto3.png"
-                                                            class="fancybox" data-fancybox-group="group"><i
-                                                                class="fa fa-file-image-o" aria-hidden="true"></i></a>
+                                                        <a href="assets/img/gallery/wedding-user/ML/foto3.png" class="fancybox" data-fancybox-group="group"><i class="fa fa-file-image-o" aria-hidden="true"></i></a>
                                                     </div>
                                                 </div>
                                             </figcaption>
@@ -178,13 +171,11 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix  couple">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/MP/foto4.png" alt="" />
+                                            <img src="assets/img/gallery/wedding-user/ML/foto4.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
-                                                        <a href="assets/img/gallery/wedding-user/MP/foto4.png"
-                                                            class="fancybox" data-fancybox-group="group"><i
-                                                                class="fa fa-file-image-o" aria-hidden="true"></i></a>
+                                                        <a href="assets/img/gallery/wedding-user/ML/foto4.png" class="fancybox" data-fancybox-group="group"><i class="fa fa-file-image-o" aria-hidden="true"></i></a>
                                                     </div>
                                                 </div>
                                             </figcaption>
@@ -199,13 +190,11 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix fashion">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/MP/foto5.png" alt="" />
+                                            <img src="assets/img/gallery/wedding-user/ML/foto5.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
-                                                        <a href="assets/img/gallery/wedding-user/MP/foto5.png"
-                                                            class="fancybox" data-fancybox-group="group"><i
-                                                                class="fa fa-file-image-o" aria-hidden="true"></i></a>
+                                                        <a href="assets/img/gallery/wedding-user/ML/foto5.png" class="fancybox" data-fancybox-group="group"><i class="fa fa-file-image-o" aria-hidden="true"></i></a>
                                                     </div>
                                                 </div>
                                             </figcaption>
@@ -215,13 +204,11 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix couple">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/MP/foto6.png" alt="" />
+                                            <img src="assets/img/gallery/wedding-user/ML/foto6.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
-                                                        <a href="assets/img/gallery/wedding-user/MP/foto6.png"
-                                                            class="fancybox" data-fancybox-group="group"><i
-                                                                class="fa fa-file-image-o" aria-hidden="true"></i></a>
+                                                        <a href="assets/img/gallery/wedding-user/ML/foto6.png" class="fancybox" data-fancybox-group="group"><i class="fa fa-file-image-o" aria-hidden="true"></i></a>
                                                     </div>
                                                 </div>
                                             </figcaption>
@@ -231,13 +218,11 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix fashion">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/MP/foto7.png" alt="" />
+                                            <img src="assets/img/gallery/wedding-user/ML/foto7.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
-                                                        <a href="assets/img/gallery/wedding-user/MP/foto7.png"
-                                                            class="fancybox" data-fancybox-group="group"><i
-                                                                class="fa fa-file-image-o" aria-hidden="true"></i></a>
+                                                        <a href="assets/img/gallery/wedding-user/ML/foto7.png" class="fancybox" data-fancybox-group="group"><i class="fa fa-file-image-o" aria-hidden="true"></i></a>
                                                     </div>
                                                 </div>
                                             </figcaption>
@@ -247,13 +232,11 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix  couple">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/MP/foto8.png" alt="" />
+                                            <img src="assets/img/gallery/wedding-user/ML/foto8.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
-                                                        <a href="assets/img/gallery/wedding-user/MP/foto8.png"
-                                                            class="fancybox" data-fancybox-group="group"><i
-                                                                class="fa fa-file-image-o" aria-hidden="true"></i></a>
+                                                        <a href="assets/img/gallery/wedding-user/ML/foto8.png" class="fancybox" data-fancybox-group="group"><i class="fa fa-file-image-o" aria-hidden="true"></i></a>
                                                     </div>
                                                 </div>
                                             </figcaption>
@@ -268,13 +251,11 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix fashion">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/MP/foto9.png" alt="" />
+                                            <img src="assets/img/gallery/wedding-user/ML/foto9.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
-                                                        <a href="assets/img/gallery/wedding-user/MP/foto9.png"
-                                                            class="fancybox" data-fancybox-group="group"><i
-                                                                class="fa fa-file-image-o" aria-hidden="true"></i></a>
+                                                        <a href="assets/img/gallery/wedding-user/ML/foto9.png" class="fancybox" data-fancybox-group="group"><i class="fa fa-file-image-o" aria-hidden="true"></i></a>
                                                     </div>
                                                 </div>
                                             </figcaption>
@@ -284,13 +265,11 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix couple">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/MP/foto10.png" alt="" />
+                                            <img src="assets/img/gallery/wedding-user/ML/foto10.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
-                                                        <a href="assets/img/gallery/wedding-user/MP/foto10.png"
-                                                            class="fancybox" data-fancybox-group="group"><i
-                                                                class="fa fa-file-image-o" aria-hidden="true"></i></a>
+                                                        <a href="assets/img/gallery/wedding-user/ML/foto10.png" class="fancybox" data-fancybox-group="group"><i class="fa fa-file-image-o" aria-hidden="true"></i></a>
                                                     </div>
                                                 </div>
                                             </figcaption>
@@ -300,13 +279,11 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix fashion">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/MP/foto11.png" alt="" />
+                                            <img src="assets/img/gallery/wedding-user/ML/foto11.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
-                                                        <a href="assets/img/gallery/wedding-user/MP/foto11.png"
-                                                            class="fancybox" data-fancybox-group="group"><i
-                                                                class="fa fa-file-image-o" aria-hidden="true"></i></a>
+                                                        <a href="assets/img/gallery/wedding-user/ML/foto11.png" class="fancybox" data-fancybox-group="group"><i class="fa fa-file-image-o" aria-hidden="true"></i></a>
                                                     </div>
                                                 </div>
                                             </figcaption>
@@ -316,13 +293,11 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix  couple">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/MP/foto12.png" alt="" />
+                                            <img src="assets/img/gallery/wedding-user/ML/foto12.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
-                                                        <a href="assets/img/gallery/wedding-user/MP/foto12.png"
-                                                            class="fancybox" data-fancybox-group="group"><i
-                                                                class="fa fa-file-image-o" aria-hidden="true"></i></a>
+                                                        <a href="assets/img/gallery/wedding-user/ML/foto12.png" class="fancybox" data-fancybox-group="group"><i class="fa fa-file-image-o" aria-hidden="true"></i></a>
                                                     </div>
                                                 </div>
                                             </figcaption>
@@ -338,13 +313,11 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix fashion">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/MP/foto13.png" alt="" />
+                                            <img src="assets/img/gallery/wedding-user/ML/foto13.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
-                                                        <a href="assets/img/gallery/wedding-user/MP/foto13.png"
-                                                            class="fancybox" data-fancybox-group="group"><i
-                                                                class="fa fa-file-image-o" aria-hidden="true"></i></a>
+                                                        <a href="assets/img/gallery/wedding-user/ML/foto13.png" class="fancybox" data-fancybox-group="group"><i class="fa fa-file-image-o" aria-hidden="true"></i></a>
                                                     </div>
                                                 </div>
                                             </figcaption>
@@ -354,13 +327,11 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix couple">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/MP/foto14.png" alt="" />
+                                            <img src="assets/img/gallery/wedding-user/ML/foto14.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
-                                                        <a href="assets/img/gallery/wedding-user/MP/foto14.png"
-                                                            class="fancybox" data-fancybox-group="group"><i
-                                                                class="fa fa-file-image-o" aria-hidden="true"></i></a>
+                                                        <a href="assets/img/gallery/wedding-user/ML/foto14.png" class="fancybox" data-fancybox-group="group"><i class="fa fa-file-image-o" aria-hidden="true"></i></a>
                                                     </div>
                                                 </div>
                                             </figcaption>
@@ -370,13 +341,11 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix fashion">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/MP/foto15.png" alt="" />
+                                            <img src="assets/img/gallery/wedding-user/ML/foto15.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
-                                                        <a href="assets/img/gallery/wedding-user/MP/foto15.png"
-                                                            class="fancybox" data-fancybox-group="group"><i
-                                                                class="fa fa-file-image-o" aria-hidden="true"></i></a>
+                                                        <a href="assets/img/gallery/wedding-user/ML/foto15.png" class="fancybox" data-fancybox-group="group"><i class="fa fa-file-image-o" aria-hidden="true"></i></a>
                                                     </div>
                                                 </div>
                                             </figcaption>
@@ -386,13 +355,11 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix  couple">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/MP/foto16.png" alt="" />
+                                            <img src="assets/img/gallery/wedding-user/ML/foto16.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
-                                                        <a href="assets/img/gallery/wedding-user/MP/foto16.png"
-                                                            class="fancybox" data-fancybox-group="group"><i
-                                                                class="fa fa-file-image-o" aria-hidden="true"></i></a>
+                                                        <a href="assets/img/gallery/wedding-user/ML/foto16.png" class="fancybox" data-fancybox-group="group"><i class="fa fa-file-image-o" aria-hidden="true"></i></a>
                                                     </div>
                                                 </div>
                                             </figcaption>
@@ -408,13 +375,11 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix fashion">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/MP/foto17.png" alt="" />
+                                            <img src="assets/img/gallery/wedding-user/ML/foto17.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
-                                                        <a href="assets/img/gallery/wedding-user/MP/foto17.png"
-                                                            class="fancybox" data-fancybox-group="group"><i
-                                                                class="fa fa-file-image-o" aria-hidden="true"></i></a>
+                                                        <a href="assets/img/gallery/wedding-user/ML/foto17.png" class="fancybox" data-fancybox-group="group"><i class="fa fa-file-image-o" aria-hidden="true"></i></a>
                                                     </div>
                                                 </div>
                                             </figcaption>
@@ -424,13 +389,11 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix couple">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/MP/foto18.png" alt="" />
+                                            <img src="assets/img/gallery/wedding-user/ML/foto18.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
-                                                        <a href="assets/img/gallery/wedding-user/MP/foto18.png"
-                                                            class="fancybox" data-fancybox-group="group"><i
-                                                                class="fa fa-file-image-o" aria-hidden="true"></i></a>
+                                                        <a href="assets/img/gallery/wedding-user/ML/foto18.png" class="fancybox" data-fancybox-group="group"><i class="fa fa-file-image-o" aria-hidden="true"></i></a>
                                                     </div>
                                                 </div>
                                             </figcaption>
@@ -440,13 +403,11 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix fashion">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/MP/foto19.png" alt="" />
+                                            <img src="assets/img/gallery/wedding-user/ML/foto19.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
-                                                        <a href="assets/img/gallery/wedding-user/MP/foto19.png"
-                                                            class="fancybox" data-fancybox-group="group"><i
-                                                                class="fa fa-file-image-o" aria-hidden="true"></i></a>
+                                                        <a href="assets/img/gallery/wedding-user/ML/foto19.png" class="fancybox" data-fancybox-group="group"><i class="fa fa-file-image-o" aria-hidden="true"></i></a>
                                                     </div>
                                                 </div>
                                             </figcaption>
@@ -456,13 +417,11 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix  couple">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/MP/foto20.png" alt="" />
+                                            <img src="assets/img/gallery/wedding-user/ML/foto20.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
-                                                        <a href="assets/img/gallery/wedding-user/MP/foto20.png"
-                                                            class="fancybox" data-fancybox-group="group"><i
-                                                                class="fa fa-file-image-o" aria-hidden="true"></i></a>
+                                                        <a href="assets/img/gallery/wedding-user/ML/foto20.png" class="fancybox" data-fancybox-group="group"><i class="fa fa-file-image-o" aria-hidden="true"></i></a>
                                                     </div>
                                                 </div>
                                             </figcaption>
@@ -478,13 +437,11 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix fashion">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/MP/foto21.png" alt="" />
+                                            <img src="assets/img/gallery/wedding-user/ML/foto21.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
-                                                        <a href="assets/img/gallery/wedding-user/MP/foto21.png"
-                                                            class="fancybox" data-fancybox-group="group"><i
-                                                                class="fa fa-file-image-o" aria-hidden="true"></i></a>
+                                                        <a href="assets/img/gallery/wedding-user/ML/foto21.png" class="fancybox" data-fancybox-group="group"><i class="fa fa-file-image-o" aria-hidden="true"></i></a>
                                                     </div>
                                                 </div>
                                             </figcaption>
@@ -494,13 +451,11 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix couple">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/MP/foto22.png" alt="" />
+                                            <img src="assets/img/gallery/wedding-user/ML/foto22.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
-                                                        <a href="assets/img/gallery/wedding-user/MP/foto22.png"
-                                                            class="fancybox" data-fancybox-group="group"><i
-                                                                class="fa fa-file-image-o" aria-hidden="true"></i></a>
+                                                        <a href="assets/img/gallery/wedding-user/ML/foto22.png" class="fancybox" data-fancybox-group="group"><i class="fa fa-file-image-o" aria-hidden="true"></i></a>
                                                     </div>
                                                 </div>
                                             </figcaption>
@@ -510,13 +465,11 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix fashion">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/MP/foto23.png" alt="" />
+                                            <img src="assets/img/gallery/wedding-user/ML/foto23.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
-                                                        <a href="assets/img/gallery/wedding-user/MP/foto23.png"
-                                                            class="fancybox" data-fancybox-group="group"><i
-                                                                class="fa fa-file-image-o" aria-hidden="true"></i></a>
+                                                        <a href="assets/img/gallery/wedding-user/ML/foto23.png" class="fancybox" data-fancybox-group="group"><i class="fa fa-file-image-o" aria-hidden="true"></i></a>
                                                     </div>
                                                 </div>
                                             </figcaption>
@@ -526,13 +479,11 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix  couple">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/MP/foto24.png" alt="" />
+                                            <img src="assets/img/gallery/wedding-user/ML/foto24.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
-                                                        <a href="assets/img/gallery/wedding-user/MP/foto24.png"
-                                                            class="fancybox" data-fancybox-group="group"><i
-                                                                class="fa fa-file-image-o" aria-hidden="true"></i></a>
+                                                        <a href="assets/img/gallery/wedding-user/ML/foto24.png" class="fancybox" data-fancybox-group="group"><i class="fa fa-file-image-o" aria-hidden="true"></i></a>
                                                     </div>
                                                 </div>
                                             </figcaption>
@@ -547,13 +498,11 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix fashion">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/MP/foto25.png" alt="" />
+                                            <img src="assets/img/gallery/wedding-user/ML/foto25.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
-                                                        <a href="assets/img/gallery/wedding-user/MP/foto25.png"
-                                                            class="fancybox" data-fancybox-group="group"><i
-                                                                class="fa fa-file-image-o" aria-hidden="true"></i></a>
+                                                        <a href="assets/img/gallery/wedding-user/ML/foto25.png" class="fancybox" data-fancybox-group="group"><i class="fa fa-file-image-o" aria-hidden="true"></i></a>
                                                     </div>
                                                 </div>
                                             </figcaption>
@@ -563,13 +512,11 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix couple">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/MP/foto26.png" alt="" />
+                                            <img src="assets/img/gallery/wedding-user/ML/foto26.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
-                                                        <a href="assets/img/gallery/wedding-user/MP/foto26.png"
-                                                            class="fancybox" data-fancybox-group="group"><i
-                                                                class="fa fa-file-image-o" aria-hidden="true"></i></a>
+                                                        <a href="assets/img/gallery/wedding-user/ML/foto26.png" class="fancybox" data-fancybox-group="group"><i class="fa fa-file-image-o" aria-hidden="true"></i></a>
                                                     </div>
                                                 </div>
                                             </figcaption>
@@ -579,13 +526,11 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix fashion">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/MP/foto27.png" alt="" />
+                                            <img src="assets/img/gallery/wedding-user/ML/foto27.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
-                                                        <a href="assets/img/gallery/wedding-user/MP/foto27.png"
-                                                            class="fancybox" data-fancybox-group="group"><i
-                                                                class="fa fa-file-image-o" aria-hidden="true"></i></a>
+                                                        <a href="assets/img/gallery/wedding-user/ML/foto27.png" class="fancybox" data-fancybox-group="group"><i class="fa fa-file-image-o" aria-hidden="true"></i></a>
                                                     </div>
                                                 </div>
                                             </figcaption>
@@ -595,13 +540,11 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix  couple">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/MP/foto28.png" alt="" />
+                                            <img src="assets/img/gallery/wedding-user/ML/foto28.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
-                                                        <a href="assets/img/gallery/wedding-user/MP/foto28.png"
-                                                            class="fancybox" data-fancybox-group="group"><i
-                                                                class="fa fa-file-image-o" aria-hidden="true"></i></a>
+                                                        <a href="assets/img/gallery/wedding-user/ML/foto28.png" class="fancybox" data-fancybox-group="group"><i class="fa fa-file-image-o" aria-hidden="true"></i></a>
                                                     </div>
                                                 </div>
                                             </figcaption>
@@ -616,13 +559,11 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix fashion">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/MP/foto29.png" alt="" />
+                                            <img src="assets/img/gallery/wedding-user/ML/foto29.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
-                                                        <a href="assets/img/gallery/wedding-user/MP/foto29.png"
-                                                            class="fancybox" data-fancybox-group="group"><i
-                                                                class="fa fa-file-image-o" aria-hidden="true"></i></a>
+                                                        <a href="assets/img/gallery/wedding-user/ML/foto29.png" class="fancybox" data-fancybox-group="group"><i class="fa fa-file-image-o" aria-hidden="true"></i></a>
                                                     </div>
                                                 </div>
                                             </figcaption>
@@ -632,13 +573,11 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix couple">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/MP/foto30.png" alt="" />
+                                            <img src="assets/img/gallery/wedding-user/ML/foto30.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
-                                                        <a href="assets/img/gallery/wedding-user/MP/foto30.png"
-                                                            class="fancybox" data-fancybox-group="group"><i
-                                                                class="fa fa-file-image-o" aria-hidden="true"></i></a>
+                                                        <a href="assets/img/gallery/wedding-user/ML/foto30.png" class="fancybox" data-fancybox-group="group"><i class="fa fa-file-image-o" aria-hidden="true"></i></a>
                                                     </div>
                                                 </div>
                                             </figcaption>
@@ -648,13 +587,11 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix fashion">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/MP/foto31.png" alt="" />
+                                            <img src="assets/img/gallery/wedding-user/ML/foto31.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
-                                                        <a href="assets/img/gallery/wedding-user/MP/foto31.png"
-                                                            class="fancybox" data-fancybox-group="group"><i
-                                                                class="fa fa-file-image-o" aria-hidden="true"></i></a>
+                                                        <a href="assets/img/gallery/wedding-user/ML/foto31.png" class="fancybox" data-fancybox-group="group"><i class="fa fa-file-image-o" aria-hidden="true"></i></a>
                                                     </div>
                                                 </div>
                                             </figcaption>
@@ -664,13 +601,11 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix  couple">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/MP/foto32.png" alt="" />
+                                            <img src="assets/img/gallery/wedding-user/ML/foto32.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
-                                                        <a href="assets/img/gallery/wedding-user/MP/foto32.png"
-                                                            class="fancybox" data-fancybox-group="group"><i
-                                                                class="fa fa-file-image-o" aria-hidden="true"></i></a>
+                                                        <a href="assets/img/gallery/wedding-user/ML/foto32.png" class="fancybox" data-fancybox-group="group"><i class="fa fa-file-image-o" aria-hidden="true"></i></a>
                                                     </div>
                                                 </div>
                                             </figcaption>
@@ -685,13 +620,11 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix fashion">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/MP/foto31.png" alt="" />
+                                            <img src="assets/img/gallery/wedding-user/ML/foto31.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
-                                                        <a href="assets/img/gallery/wedding-user/MP/foto31.png"
-                                                            class="fancybox" data-fancybox-group="group"><i
-                                                                class="fa fa-file-image-o" aria-hidden="true"></i></a>
+                                                        <a href="assets/img/gallery/wedding-user/ML/foto31.png" class="fancybox" data-fancybox-group="group"><i class="fa fa-file-image-o" aria-hidden="true"></i></a>
                                                     </div>
                                                 </div>
                                             </figcaption>
@@ -701,13 +634,11 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix couple">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/MP/foto32.png" alt="" />
+                                            <img src="assets/img/gallery/wedding-user/ML/foto32.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
-                                                        <a href="assets/img/gallery/wedding-user/MP/foto32.png"
-                                                            class="fancybox" data-fancybox-group="group"><i
-                                                                class="fa fa-file-image-o" aria-hidden="true"></i></a>
+                                                        <a href="assets/img/gallery/wedding-user/ML/foto32.png" class="fancybox" data-fancybox-group="group"><i class="fa fa-file-image-o" aria-hidden="true"></i></a>
                                                     </div>
                                                 </div>
                                             </figcaption>
@@ -717,29 +648,11 @@
                                 <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix couple">
                                     <div class="theme-hover">
                                         <figure>
-                                            <img src="assets/img/gallery/wedding-user/MP/foto33.png" alt="" />
+                                            <img src="assets/img/gallery/wedding-user/ML/foto33.png" alt="" />
                                             <figcaption>
                                                 <div class="content">
                                                     <div class="content-box">
-                                                        <a href="assets/img/gallery/wedding-user/MP/foto33.png"
-                                                            class="fancybox" data-fancybox-group="group"><i
-                                                                class="fa fa-file-image-o" aria-hidden="true"></i></a>
-                                                    </div>
-                                                </div>
-                                            </figcaption>
-                                        </figure>
-                                    </div>
-                                </div>
-                                <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix couple">
-                                    <div class="theme-hover">
-                                        <figure>
-                                            <img src="assets/img/gallery/wedding-user/MP/foto34.png" alt="" />
-                                            <figcaption>
-                                                <div class="content">
-                                                    <div class="content-box">
-                                                        <a href="assets/img/gallery/wedding-user/MP/foto34.png"
-                                                            class="fancybox" data-fancybox-group="group"><i
-                                                                class="fa fa-file-image-o" aria-hidden="true"></i></a>
+                                                        <a href="assets/img/gallery/wedding-user/ML/foto33.png" class="fancybox" data-fancybox-group="group"><i class="fa fa-file-image-o" aria-hidden="true"></i></a>
                                                     </div>
                                                 </div>
                                             </figcaption>
@@ -749,43 +662,6 @@
                             </div>
                         </div>
 
-
-                        <div class="row">
-                            <div id="mixItUp">
-                                <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix fashion">
-                                    <div class="theme-hover">
-                                        <figure>
-                                            <img src="assets/img/gallery/wedding-user/MP/foto35.png" alt="" />
-                                            <figcaption>
-                                                <div class="content">
-                                                    <div class="content-box">
-                                                        <a href="assets/img/gallery/wedding-user/MP/foto35.png"
-                                                            class="fancybox" data-fancybox-group="group"><i
-                                                                class="fa fa-file-image-o" aria-hidden="true"></i></a>
-                                                    </div>
-                                                </div>
-                                            </figcaption>
-                                        </figure>
-                                    </div>
-                                </div>
-                                <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix couple">
-                                    <div class="theme-hover">
-                                        <figure>
-                                            <img src="assets/img/gallery/wedding-user/MP/foto36.png" alt="" />
-                                            <figcaption>
-                                                <div class="content">
-                                                    <div class="content-box">
-                                                        <a href="assets/img/gallery/wedding-user/MP/foto36.png"
-                                                            class="fancybox" data-fancybox-group="group"><i
-                                                                class="fa fa-file-image-o" aria-hidden="true"></i></a>
-                                                    </div>
-                                                </div>
-                                            </figcaption>
-                                        </figure>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
                     </div>
                 </div>
             </div>
@@ -837,8 +713,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 col-sm-12 col-xs-12">
-                        <p style="text-align: center;">Copyright 2020 All Right Reserved <a
-                                href="http://www.itgeeksin.com/"><span class="theme-color">DevCode</span></a></p>
+                        <p style="text-align: center;">Copyright 2020 All Right Reserved <a href="http://www.itgeeksin.com/"><span class="theme-color">DevCode</span></a></p>
                     </div>
                 </div>
             </div>
@@ -857,6 +732,6 @@
     <script src="assets/js/main.js"></script>
 </body>
 
-<!-- Mirrored from preview.itgeeksin.com/photography/portfolio-style-4.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 31 Dec 2019 02:01:01 GMT -->
+<!-- Mirrored from preview.itgeeksin.com/photography/portfolio-style-4.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 31 Dec 2019 02:01:01 GMT -->
 
 </html>

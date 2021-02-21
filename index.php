@@ -59,7 +59,7 @@
                                         <span class="icon-bar"></span>
                                     </button>
                                     <!-- Logo -->
-                                    <a class="navbar-brand" href="index.html">
+                                    <a class="navbar-brand" href="index.php">
                                         <h3 class="site_logo" style="color: white;">JFL Producciones</h3>
                                     </a>
                                 </div>
@@ -67,18 +67,18 @@
                                 <div class="navbar-collapse collapse">
                                     <!-- nav -->
                                     <ul class="nav navbar-nav">
-                                        <li><a href="index.html">Inicio</a></li>
-                                        <li><a href="about-us.html">Acerca de</a></li>
-                                        <li><a href="presentation.html">Presentación</a></li>
+                                        <li><a href="index.php">Inicio</a></li>
+                                        <li><a href="about-us.php">Acerca de</a></li>
+                                        <li><a href="presentation.php">Presentación</a></li>
                                         <li>
                                             <a href="#">Galeria <i class="fa fa-angle-down hidden-lg hidden-md hidden-sm" aria-hidden="true"></i></a>
                                             <ul class="dropdown-menu">
-                                                <li><a href="weddings.html">Bodas</a></li>
+                                                <li><a href="weddings.php">Bodas</a></li>
                                                 <li><a href="#">Cumpleaños de 15</a></li>
                                                 <li><a href="#">Eventos</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="contact.html">Contacto</a></li>
+                                        <li><a href="contact.php">Contacto</a></li>
                                     </ul>
                                 </div>
                                 <!-- navbar-collapse -->
@@ -111,7 +111,7 @@
                                 <p>Imágenes limpias, elegantes e innovadoras, con un acabado profesional sea cual sea el
                                     proyecto.
                                 </p>
-                                <a href="contact.html" class="itg-button active">Contacto</a>
+                                <a href="contact.php" class="itg-button active">Contacto</a>
                             </div>
                         </div>
                     </div>
@@ -129,7 +129,7 @@
                                 <p>Somos fotógrafos profesionales que se ajustan a las necesidades de cada sesión y
                                     sector.
                                 </p>
-                                <a href="contact.html" class="itg-button active">Contacto</a>
+                                <a href="contact.php" class="itg-button active">Contacto</a>
                             </div>
                         </div>
                     </div>
@@ -148,7 +148,7 @@
                                     elegancia característica de JFL Producciones y que ofrece un atractivo artístico
                                     impecable.
                                 </p>
-                                <a href="contact.html" class="itg-button active">Contacto</a>
+                                <a href="contact.php" class="itg-button active">Contacto</a>
                             </div>
                         </div>
                     </div>
@@ -187,7 +187,7 @@
                                             <div class="content-box">
                                                 <span>CASAMIENTOS</span>
                                                 <span></span>
-                                                <a href="contact.html" class="itg-button">Solicitar presupuesto</a>
+                                                <a href="contact.php" class="itg-button">Solicitar presupuesto</a>
                                             </div>
                                         </div>
                                     </figcaption>
@@ -202,7 +202,7 @@
                                         <div class="content">
                                             <div class="content-box">
                                                 <span>EVENTOS SOCIALES</span>
-                                                <a href="contact.html" class="itg-button">Solicitar presupuesto</a>
+                                                <a href="contact.php" class="itg-button">Solicitar presupuesto</a>
                                             </div>
                                         </div>
                                     </figcaption>
@@ -217,7 +217,7 @@
                                         <div class="content">
                                             <div class="content-box">
                                                 <span>FIESTA DE 15</span>
-                                                <a href="contact.html" class="itg-button">Solicitar presupuesto</a>
+                                                <a href="contact.php" class="itg-button">Solicitar presupuesto</a>
                                             </div>
                                         </div>
                                     </figcaption>
@@ -235,7 +235,7 @@
                                             <div class="content-box">
                                                 <span>BAUTISMOS</span>
                                                 <span></span>
-                                                <a href="contact.html" class="itg-button">Solicitar presupuesto</a>
+                                                <a href="contact.php" class="itg-button">Solicitar presupuesto</a>
                                             </div>
                                         </div>
                                     </figcaption>
@@ -250,7 +250,7 @@
                                         <div class="content">
                                             <div class="content-box">
                                                 <span>COMUNIÓN</span>
-                                                <a href="contact.html" class="itg-button">Solicitar presupuesto</a>
+                                                <a href="contact.php" class="itg-button">Solicitar presupuesto</a>
                                             </div>
                                         </div>
                                     </figcaption>
@@ -265,7 +265,7 @@
                                         <div class="content">
                                             <div class="content-box">
                                                 <span>EVENTOS EMPRESARIALES</span>
-                                                <a href="contact.html" class="itg-button">Solicitar presupuesto</a>
+                                                <a href="contact.php" class="itg-button">Solicitar presupuesto</a>
                                             </div>
                                         </div>
                                     </figcaption>

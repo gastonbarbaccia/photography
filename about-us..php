@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,8 +8,7 @@
         <meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
         <![endif]-->
     <meta name="keywords" content="HTML5 Template" />
-    <meta name="description"
-        content="Fotografo de eventos | Buenos Aires | JFL Fotografia y Filmacion" />
+    <meta name="description" content="Fotografo de eventos | Buenos Aires | JFL Fotografia y Filmacion" />
     <meta name="author" content="itgeeksin.com" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
@@ -50,15 +50,14 @@
                             <div class="col-md-12 head-box">
                                 <div class="navbar-header">
                                     <!-- Button For Responsive toggle -->
-                                    <button type="button" class="navbar-toggle" data-toggle="collapse"
-                                        data-target=".navbar-collapse">
+                                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                                         <span class="sr-only">Toggle navigation</span>
                                         <span class="icon-bar"></span>
                                         <span class="icon-bar"></span>
                                         <span class="icon-bar"></span>
                                     </button>
                                     <!-- Logo -->
-                                    <a class="navbar-brand" href="index.html">
+                                    <a class="navbar-brand" href="index.php">
                                         <h3 class="site_logo" style="color: white;">JFL Producciones</h3>
                                     </a>
                                 </div>
@@ -66,20 +65,20 @@
                                 <div class="navbar-collapse collapse">
                                     <!-- nav -->
                                     <ul class="nav navbar-nav">
-                                        <li><a href="index.html">Inicio</a></li>
-                                        <li><a href="about-us.html">Acerca de</a></li>
-                                        <li><a href="presentation.html">Presentación</a></li>
+                                        <li><a href="index.php">Inicio</a></li>
+                                        <li><a href="about-us.php">Acerca de</a></li>
+                                        <li><a href="presentation.php">Presentación</a></li>
                                         <li>
                                             <a href="#">Galeria <i
                                                     class="fa fa-angle-down hidden-lg hidden-md hidden-sm"
                                                     aria-hidden="true"></i></a>
                                             <ul class="dropdown-menu">
-                                                <li><a href="weddings.html">Bodas</a></li>
+                                                <li><a href="weddings.php">Bodas</a></li>
                                                 <li><a href="#">Cumpleaños de 15</a></li>
                                                 <li><a href="#">Eventos</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="contact.html">Contacto</a></li>
+                                        <li><a href="contact.php">Contacto</a></li>
                                     </ul>
                                 </div>
                                 <!-- navbar-collapse -->
@@ -109,7 +108,7 @@
                     <div class="breadcrumb-box">
                         <ul class="breadcrumb text-center colorW marB0">
                             <li>
-                                <a href="index.html">Inicio</a>
+                                <a href="index.php">Inicio</a>
                             </li>
                             <li class="active">Acerca de</li>
                         </ul>
@@ -143,19 +142,10 @@
                         </div>
                         <!-- Theme Heading -->
                         <div class="content">
-                            <p>Somos un grupo de personas idóneas en fotografía y filmación dedicadas a eventos
-                                sociales.
-                                Contamos con equipamiento profesional que junto con nuestra experiencia y capacitación
-                                logramos llevar a cabo una cobertura integral de todos los eventos para garantizar así
-                                el mejor recuerdo que se merece un evento tan importante en la vida de nuestros
-                                clientes.
-                                Ofrecemos una atención personalizada, realizamos una entrevista previa para conocernos y
-                                poder entender de forma especifica la necesidad de cada cliente, estrechando lazos. De
-                                esta forma cada cliente puede sentirse tranquilo y predispuesto al momento de comenzar a
-                                trabajar en el evento.
-                                Asumimos un compromiso con el cliente garantizando un excelente resultado final,
-                                satisfaciendo su necesidad junto con nuestra satisfacción de hacer un trabajo que nos
-                                llena el alma y nos hace bien.
+                            <p>Somos un grupo de personas idóneas en fotografía y filmación dedicadas a eventos sociales. Contamos con equipamiento profesional que junto con nuestra experiencia y capacitación logramos llevar a cabo una cobertura integral
+                                de todos los eventos para garantizar así el mejor recuerdo que se merece un evento tan importante en la vida de nuestros clientes. Ofrecemos una atención personalizada, realizamos una entrevista previa para conocernos y
+                                poder entender de forma especifica la necesidad de cada cliente, estrechando lazos. De esta forma cada cliente puede sentirse tranquilo y predispuesto al momento de comenzar a trabajar en el evento. Asumimos un compromiso
+                                con el cliente garantizando un excelente resultado final, satisfaciendo su necesidad junto con nuestra satisfacción de hacer un trabajo que nos llena el alma y nos hace bien.
                             </p>
                         </div>
                     </div>
@@ -208,8 +198,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 col-sm-12 col-xs-12">
-                        <p style="text-align: center;">Copyright 2020 All Right Reserved <a
-                                href="http://www.itgeeksin.com/"><span class="theme-color">DevCode</span></a></p>
+                        <p style="text-align: center;">Copyright 2020 All Right Reserved <a href="http://www.itgeeksin.com/"><span class="theme-color">DevCode</span></a></p>
                     </div>
                 </div>
             </div>
@@ -228,6 +217,6 @@
     <script src="assets/js/main.js"></script>
 </body>
 
-<!-- Mirrored from preview.itgeeksin.com/photography/about-us.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 31 Dec 2019 01:56:15 GMT -->
+<!-- Mirrored from preview.itgeeksin.com/photography/about-us.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 31 Dec 2019 01:56:15 GMT -->
 
 </html>

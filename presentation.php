@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,8 +8,7 @@
         <meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
         <![endif]-->
     <meta name="keywords" content="HTML5 Template" />
-    <meta name="description"
-        content="Fotografo de eventos | Buenos Aires | JFL Fotografia y Filmacion" />
+    <meta name="description" content="Fotografo de eventos | Buenos Aires | JFL Fotografia y Filmacion" />
     <meta name="author" content="itgeeksin.com" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
@@ -50,15 +50,14 @@
                             <div class="col-md-12 head-box">
                                 <div class="navbar-header">
                                     <!-- Button For Responsive toggle -->
-                                    <button type="button" class="navbar-toggle" data-toggle="collapse"
-                                        data-target=".navbar-collapse">
+                                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                                         <span class="sr-only">Toggle navigation</span>
                                         <span class="icon-bar"></span>
                                         <span class="icon-bar"></span>
                                         <span class="icon-bar"></span>
                                     </button>
                                     <!-- Logo -->
-                                    <a class="navbar-brand" href="index.html">
+                                    <a class="navbar-brand" href="index.php">
                                         <h3 class="site_logo" style="color: white;">JFL Producciones</h3>
                                     </a>
                                 </div>
@@ -66,20 +65,20 @@
                                 <div class="navbar-collapse collapse">
                                     <!-- nav -->
                                     <ul class="nav navbar-nav">
-                                        <li><a href="index.html">Inicio</a></li>
-                                        <li><a href="about-us.html">Acerca de</a></li>
-                                        <li><a href="presentation.html">Presentación</a></li>
+                                        <li><a href="index.php">Inicio</a></li>
+                                        <li><a href="about-us.php">Acerca de</a></li>
+                                        <li><a href="presentation.php">Presentación</a></li>
                                         <li>
                                             <a href="#">Galeria <i
                                                     class="fa fa-angle-down hidden-lg hidden-md hidden-sm"
                                                     aria-hidden="true"></i></a>
                                             <ul class="dropdown-menu">
-                                                <li><a href="weddings.html">Bodas</a></li>
+                                                <li><a href="weddings.php">Bodas</a></li>
                                                 <li><a href="#">Cumpleaños de 15</a></li>
                                                 <li><a href="#">Eventos</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="contact.html">Contacto</a></li>
+                                        <li><a href="contact.php">Contacto</a></li>
                                     </ul>
                                 </div>
                                 <!-- navbar-collapse -->
@@ -109,7 +108,7 @@
                     <div class="breadcrumb-box">
                         <ul class="breadcrumb text-center colorW marB0">
                             <li>
-                                <a href="index.html">Inicio</a>
+                                <a href="index.php">Inicio</a>
                             </li>
                             <li class="active">Presentación</li>
                         </ul>
@@ -125,140 +124,136 @@
             <!-- Theme Heading -->
             <div class="theme-heading">
                 <h3><span class="heading-shape">La presentación final del trabajo no es un detalle menor</span></h3>
-                <p>Queremos dar a tu recuerdo el valor que se merece, por eso es que estamos en cada detalle. La
-                    presentación final no es un detalle menor. Entregamos la totalidad del trabajo fotográfico en alta
-                    resolución en un pen drive, del mismo modo lo hacemos con el video, donde realmente se puede
-                    apreciar un video en calidad Full HD. El conjunto de pen drive se presenta en una caja de madera
-                    artesanal muy fina. Confeccionamos un fotolibro con las 110 fotos seleccionadas por ustedes que
-                    cuentan la historia de tu fiesta, en papel fotográfico de alta calidad con un excelente diseño. Todo
-                    esto dentro de una bolsa artesanal finamente diseñada..
+                <p>Queremos dar a tu recuerdo el valor que se merece, por eso es que estamos en cada detalle. La presentación final no es un detalle menor. Entregamos la totalidad del trabajo fotográfico en alta resolución en un pen drive, del mismo modo
+                    lo hacemos con el video, donde realmente se puede apreciar un video en calidad Full HD. El conjunto de pen drive se presenta en una caja de madera artesanal muy fina. Confeccionamos un fotolibro con las 110 fotos seleccionadas por
+                    ustedes que cuentan la historia de tu fiesta, en papel fotográfico de alta calidad con un excelente diseño. Todo esto dentro de una bolsa artesanal finamente diseñada..
                 </p>
             </div>
             <!-- Theme Heading -->
         </div>
     </div>
-   
+
     <div class="padB100">
-    <div class="mix-default container" >
-        <div class="row">
-            <div id="mixItUp">
-                <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix fashion">
-                    <div class="theme-hover">
-                        <figure>
-                            <img src="assets/img/work-gallery/4.png" alt=""/>
-                            <figcaption>
-                                <div class="content">
-                                    <div class="content-box">
-                                        <a href="assets/img/fancybox/4.png" class="fancybox" data-fancybox-group="group"><i class="fa fa-file-image-o" aria-hidden="true"></i></a>
+        <div class="mix-default container">
+            <div class="row">
+                <div id="mixItUp">
+                    <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix fashion">
+                        <div class="theme-hover">
+                            <figure>
+                                <img src="assets/img/work-gallery/4.png" alt="" />
+                                <figcaption>
+                                    <div class="content">
+                                        <div class="content-box">
+                                            <a href="assets/img/fancybox/4.png" class="fancybox" data-fancybox-group="group"><i class="fa fa-file-image-o" aria-hidden="true"></i></a>
+                                        </div>
                                     </div>
-                                </div>
-                            </figcaption>
-                        </figure>
+                                </figcaption>
+                            </figure>
+                        </div>
                     </div>
-                </div>
-                <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix couple">
-                    <div class="theme-hover">
-                        <figure>
-                            <img src="assets/img/work-gallery/2.png" alt=""/>
-                            <figcaption>
-                                <div class="content">
-                                    <div class="content-box">
-                                        <a href="assets/img/fancybox/2.png" class="fancybox" data-fancybox-group="group"><i class="fa fa-file-image-o" aria-hidden="true"></i></a>
+                    <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix couple">
+                        <div class="theme-hover">
+                            <figure>
+                                <img src="assets/img/work-gallery/2.png" alt="" />
+                                <figcaption>
+                                    <div class="content">
+                                        <div class="content-box">
+                                            <a href="assets/img/fancybox/2.png" class="fancybox" data-fancybox-group="group"><i class="fa fa-file-image-o" aria-hidden="true"></i></a>
+                                        </div>
                                     </div>
-                                </div>
-                            </figcaption>
-                        </figure>
+                                </figcaption>
+                            </figure>
+                        </div>
                     </div>
-                </div>
-                <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix fashion">
-                    <div class="theme-hover">
-                        <figure>
-                            <img src="assets/img/work-gallery/3.png" alt=""/>
-                            <figcaption>
-                                <div class="content">
-                                    <div class="content-box">
-                                        <a href="assets/img/fancybox/3.png" class="fancybox" data-fancybox-group="group"><i class="fa fa-file-image-o" aria-hidden="true"></i></a>
+                    <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix fashion">
+                        <div class="theme-hover">
+                            <figure>
+                                <img src="assets/img/work-gallery/3.png" alt="" />
+                                <figcaption>
+                                    <div class="content">
+                                        <div class="content-box">
+                                            <a href="assets/img/fancybox/3.png" class="fancybox" data-fancybox-group="group"><i class="fa fa-file-image-o" aria-hidden="true"></i></a>
+                                        </div>
                                     </div>
-                                </div>
-                            </figcaption>
-                        </figure>
+                                </figcaption>
+                            </figure>
+                        </div>
                     </div>
-                </div>
-                <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix  couple">
-                    <div class="theme-hover">
-                        <figure>
-                            <img src="assets/img/work-gallery/1.png" alt=""/>
-                            <figcaption>
-                                <div class="content">
-                                    <div class="content-box">
-                                        <a href="assets/img/fancybox/1.png" class="fancybox" data-fancybox-group="group"><i class="fa fa-file-image-o" aria-hidden="true"></i></a>
+                    <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix  couple">
+                        <div class="theme-hover">
+                            <figure>
+                                <img src="assets/img/work-gallery/1.png" alt="" />
+                                <figcaption>
+                                    <div class="content">
+                                        <div class="content-box">
+                                            <a href="assets/img/fancybox/1.png" class="fancybox" data-fancybox-group="group"><i class="fa fa-file-image-o" aria-hidden="true"></i></a>
+                                        </div>
                                     </div>
-                                </div>
-                            </figcaption>
-                        </figure>
+                                </figcaption>
+                            </figure>
+                        </div>
                     </div>
-                </div>
-                <div class="work-gallery simple col-md-3 col-sm-6 col-xs-12 mix fashion">
-                    <div class="theme-hover">
-                        <figure>
-                            <img src="assets/img/work-gallery/5.png" alt=""/>
-                            <figcaption>
-                                <div class="content">
-                                    <div class="content-box">
-                                        <a href="assets/img/fancybox/5.png" class="fancybox" data-fancybox-group="group"><i class="fa fa-file-image-o" aria-hidden="true"></i></a>
+                    <div class="work-gallery simple col-md-3 col-sm-6 col-xs-12 mix fashion">
+                        <div class="theme-hover">
+                            <figure>
+                                <img src="assets/img/work-gallery/5.png" alt="" />
+                                <figcaption>
+                                    <div class="content">
+                                        <div class="content-box">
+                                            <a href="assets/img/fancybox/5.png" class="fancybox" data-fancybox-group="group"><i class="fa fa-file-image-o" aria-hidden="true"></i></a>
+                                        </div>
                                     </div>
-                                </div>
-                            </figcaption>
-                        </figure>
+                                </figcaption>
+                            </figure>
+                        </div>
                     </div>
-                </div>
-                <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix portraits">
-                    <div class="theme-hover">
-                        <figure>
-                            <img src="assets/img/work-gallery/6.png" alt=""/>
-                            <figcaption>
-                                <div class="content">
-                                    <div class="content-box">
-                                        <a href="assets/img/fancybox/6.png" class="fancybox" data-fancybox-group="group"><i class="fa fa-file-image-o" aria-hidden="true"></i></a>
+                    <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix portraits">
+                        <div class="theme-hover">
+                            <figure>
+                                <img src="assets/img/work-gallery/6.png" alt="" />
+                                <figcaption>
+                                    <div class="content">
+                                        <div class="content-box">
+                                            <a href="assets/img/fancybox/6.png" class="fancybox" data-fancybox-group="group"><i class="fa fa-file-image-o" aria-hidden="true"></i></a>
+                                        </div>
                                     </div>
-                                </div>
-                            </figcaption>
-                        </figure>
+                                </figcaption>
+                            </figure>
+                        </div>
                     </div>
-                </div>
-                <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix couple">
-                    <div class="theme-hover">
-                        <figure>
-                            <img src="assets/img/work-gallery/7.png" alt=""/>
-                            <figcaption>
-                                <div class="content">
-                                    <div class="content-box">
-                                        <a href="assets/img/fancybox/7.png" class="fancybox" data-fancybox-group="group"><i class="fa fa-file-image-o" aria-hidden="true"></i></a>
+                    <div class="work-gallery simple  col-md-3 col-sm-6 col-xs-12 mix couple">
+                        <div class="theme-hover">
+                            <figure>
+                                <img src="assets/img/work-gallery/7.png" alt="" />
+                                <figcaption>
+                                    <div class="content">
+                                        <div class="content-box">
+                                            <a href="assets/img/fancybox/7.png" class="fancybox" data-fancybox-group="group"><i class="fa fa-file-image-o" aria-hidden="true"></i></a>
+                                        </div>
                                     </div>
-                                </div>
-                            </figcaption>
-                        </figure>
+                                </figcaption>
+                            </figure>
+                        </div>
                     </div>
-                </div>
-                <div class="work-gallery simple col-md-3 col-sm-6 col-xs-12 mix portraits">
-                    <div class="theme-hover">
-                        <figure>
-                            <img src="assets/img/work-gallery/8.png" alt=""/>
-                            <figcaption>
-                                <div class="content">
-                                    <div class="content-box">
-                                        <a href="assets/img/fancybox/8.png" class="fancybox" data-fancybox-group="group"><i class="fa fa-file-image-o" aria-hidden="true"></i></a>
+                    <div class="work-gallery simple col-md-3 col-sm-6 col-xs-12 mix portraits">
+                        <div class="theme-hover">
+                            <figure>
+                                <img src="assets/img/work-gallery/8.png" alt="" />
+                                <figcaption>
+                                    <div class="content">
+                                        <div class="content-box">
+                                            <a href="assets/img/fancybox/8.png" class="fancybox" data-fancybox-group="group"><i class="fa fa-file-image-o" aria-hidden="true"></i></a>
+                                        </div>
                                     </div>
-                                </div>
-                            </figcaption>
-                        </figure>
+                                </figcaption>
+                            </figure>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-</div>
-        
+
     <!--//===============Modal Agency end==============//-->
     <div class="clear "></div>
     <!--//================Partner starts=============//-->
@@ -305,8 +300,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 col-sm-12 col-xs-12">
-                        <p style="text-align: center;">Copyright 2020 All Right Reserved <a
-                                href="http://www.itgeeksin.com/"><span class="theme-color">DevCode</span></a></p>
+                        <p style="text-align: center;">Copyright 2020 All Right Reserved <a href="http://www.itgeeksin.com/"><span class="theme-color">DevCode</span></a></p>
                     </div>
                 </div>
             </div>
@@ -325,6 +319,6 @@
     <script src="assets/js/main.js"></script>
 </body>
 
-<!-- Mirrored from preview.itgeeksin.com/photography/about-us.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 31 Dec 2019 01:56:15 GMT -->
+<!-- Mirrored from preview.itgeeksin.com/photography/about-us.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 31 Dec 2019 01:56:15 GMT -->
 
 </html>

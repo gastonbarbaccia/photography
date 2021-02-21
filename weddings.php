@@ -6,7 +6,7 @@
         ********************************************************************************************************** 
         -->
 
-<!-- Mirrored from preview.itgeeksin.com/photography/portfolio-style-4.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 31 Dec 2019 02:01:01 GMT -->
+<!-- Mirrored from preview.itgeeksin.com/photography/portfolio-style-4.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 31 Dec 2019 02:01:01 GMT -->
 
 <head>
     <meta charset="utf-8">
@@ -57,15 +57,14 @@
                             <div class="col-md-12 head-box">
                                 <div class="navbar-header">
                                     <!-- Button For Responsive toggle -->
-                                    <button type="button" class="navbar-toggle" data-toggle="collapse"
-                                        data-target=".navbar-collapse">
+                                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                                         <span class="sr-only">Toggle navigation</span>
                                         <span class="icon-bar"></span>
                                         <span class="icon-bar"></span>
                                         <span class="icon-bar"></span>
                                     </button>
                                     <!-- Logo -->
-                                    <a class="navbar-brand" href="index.html">
+                                    <a class="navbar-brand" href="index.php">
                                         <h3 class="site_logo" style="color: white;">JFL Producciones</h3>
                                     </a>
                                 </div>
@@ -73,20 +72,20 @@
                                 <div class="navbar-collapse collapse">
                                     <!-- nav -->
                                     <ul class="nav navbar-nav">
-                                        <li><a href="index.html">Inicio</a></li>
-                                        <li><a href="about-us.html">Acerca de</a></li>
-                                        <li><a href="presentation.html">Presentación</a></li>
+                                        <li><a href="index.php">Inicio</a></li>
+                                        <li><a href="about-us.php">Acerca de</a></li>
+                                        <li><a href="presentation.php">Presentación</a></li>
                                         <li>
                                             <a href="#">Galeria <i
                                                     class="fa fa-angle-down hidden-lg hidden-md hidden-sm"
                                                     aria-hidden="true"></i></a>
                                             <ul class="dropdown-menu">
-                                                <li><a href="weddings.html">Bodas</a></li>
+                                                <li><a href="weddings.php">Bodas</a></li>
                                                 <li><a href="#">Cumpleaños de 15</a></li>
                                                 <li><a href="#">Eventos</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="contact.html">Contacto</a></li>
+                                        <li><a href="contact.php">Contacto</a></li>
                                     </ul>
                                 </div>
                                 <!-- navbar-collapse -->
@@ -116,7 +115,7 @@
                     <div class="breadcrumb-box">
                         <ul class="breadcrumb text-center colorW marB0">
                             <li>
-                                <a href="index-2.html">Inicio</a>
+                                <a href="index-2.php">Inicio</a>
                             </li>
                             <li class="active">Galeria</li>
                         </ul>
@@ -134,7 +133,7 @@
                     <div class="col-md-3">
                         <div class="theme-hover" style="padding-top: 5%;">
                             <figure>
-                                <a href="mariana-leandro.html"><img src="assets/img/gallery/weddings/boda1.PNG" alt="" /></a href="#">
+                                <a href="mariana-leandro.php"><img src="assets/img/gallery/weddings/boda1.PNG" alt="" /></a href="#">
                             </figure>
                         </div>
                         <div>
@@ -144,7 +143,7 @@
                     <div class="col-md-3 ">
                         <div class="theme-hover" style="padding-top: 5%;">
                             <figure>
-                                <a href="vivi-damian.html"><img src="assets/img/gallery/weddings/boda2.PNG" alt="" /></a href="#">
+                                <a href="vivi-damian.php"><img src="assets/img/gallery/weddings/boda2.PNG" alt="" /></a href="#">
                             </figure>
                         </div>
                         <div>
@@ -154,7 +153,7 @@
                     <div class="col-md-3">
                         <div class="theme-hover" style="padding-top: 5%;">
                             <figure>
-                                <a href="adrian-vicky.html"><img src="assets/img/gallery/weddings/boda3.PNG" alt="" /></a href="#">
+                                <a href="adrian-vicky.php"><img src="assets/img/gallery/weddings/boda3.PNG" alt="" /></a href="#">
                             </figure>
                         </div>
                         <div>
@@ -164,7 +163,7 @@
                     <div class="work-gallery simple  col-md-3">
                         <div class="theme-hover foto-padding">
                             <figure>
-                                <a href="meli-pablo.html"><img src="assets/img/gallery/weddings/boda4.PNG" alt="" /></a href="#">
+                                <a href="meli-pablo.php"><img src="assets/img/gallery/weddings/boda4.PNG" alt="" /></a href="#">
                             </figure>
                         </div>
                         <div>
@@ -326,8 +325,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 col-sm-12 col-xs-12">
-                        <p style="text-align: center;">Copyright 2020 All Right Reserved <a
-                                href="http://www.itgeeksin.com/"><span class="theme-color">DevCode</span></a></p>
+                        <p style="text-align: center;">Copyright 2020 All Right Reserved <a href="http://www.itgeeksin.com/"><span class="theme-color">DevCode</span></a></p>
                     </div>
                 </div>
             </div>
@@ -346,6 +344,6 @@
     <script src="assets/js/main.js"></script>
 </body>
 
-<!-- Mirrored from preview.itgeeksin.com/photography/portfolio-style-4.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 31 Dec 2019 02:01:01 GMT -->
+<!-- Mirrored from preview.itgeeksin.com/photography/portfolio-style-4.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 31 Dec 2019 02:01:01 GMT -->
 
 </html>
